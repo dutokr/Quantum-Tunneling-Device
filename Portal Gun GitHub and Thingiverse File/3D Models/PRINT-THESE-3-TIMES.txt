@@ -1,0 +1,6 @@
+Claw-Joint-A
+Claw-Joint-B
+Claw-Joint-C
+Claw-Joint-D
+Claw-Cable-Socket
+Antenna

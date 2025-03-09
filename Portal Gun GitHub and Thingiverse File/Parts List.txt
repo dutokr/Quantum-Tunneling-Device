@@ -1,0 +1,30 @@
+3D prints
+1x Hot Glue Stick (thick)
+6x M3 Machine Screw (40mm)
+7x M3 Machine Screw (25mm)
+3x M3 Machine Screw (11mm)
+16x M3 Nut
+
+
+
+
+
+
+
+=====ELECTRONICS=====
+
+
+Ardunio UNO
+Breadboard
+Speaker
+Amplifier
+3x Red LED
+Green LED
+1.5M Adressable LED Strip WS2812B
+2 Arcade Buttons 
+1 Switch (the simulated switch, i recommend buying this a different color or size)
+1 Switch
+DFPlayer Mini
+9volt battery & battery bed
+1000ohm resistor
+330ohm resistor
